@@ -1,3 +1,4 @@
 This project is the best
 
 And now I will add some intersting text right here
+Some new text also inside branch foo_feature

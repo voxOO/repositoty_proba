@@ -1,4 +1,8 @@
 This project is the best
 
 And now I will add some intersting text right here
-And let's add something to create merge conflict
+And let's add something to create merge conflict and also we can add some new
+text to the branch foo_feature also
+
+
+

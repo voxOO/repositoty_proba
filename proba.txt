@@ -1,3 +1,4 @@
 This project is the best
 
 And now I will add some intersting text right here
+And let's add something to create merge conflict
